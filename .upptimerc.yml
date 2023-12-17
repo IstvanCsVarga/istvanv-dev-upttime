@@ -1,16 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: IstvanCsVarga # Your GitHub organization or username, where this repository lives
+repo: istvanv-dev-upttime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: istvanv.dev
+    url: https://www.istvanv.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Welcome to my real-time uptime monitor! This page dynamically tracks the status of my projects, leveraging GitHub's innovative Actions, Issues, and Pages. It's a seamless integration that requires no additional servers, showcasing the power and simplicity of GitHub's ecosystem. Curious about setting up your own uptime page? It's free and straightforward. Check out [Upptime on GitHub](https://github.com/upptime/upptime) to get started!
   navbar:
     - title: Status
       href: /
