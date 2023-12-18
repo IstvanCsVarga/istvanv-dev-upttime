@@ -7,7 +7,8 @@ sites:
 
 status-website:
   theme: dark
-  baseUrl: /istvanv-dev-upttime
+  # baseUrl: /istvanv-dev-upttime
+  cname: uptime.istvanv.dev # Custom domain CNAME
   logoUrl: https://raw.githubusercontent.com/IstvanCsVarga/istvancsvarga.github.io/master/src/assets/logo.svg
   faviconSvg: https://raw.githubusercontent.com/IstvanCsVarga/istvancsvarga.github.io/master/src/assets/logo.svg
   name: istvanv Upptime
